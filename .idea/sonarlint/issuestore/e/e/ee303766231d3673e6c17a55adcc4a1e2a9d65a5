@@ -1,0 +1,31 @@
+
+{
+java:S1104"YMake bookingsTable a static final constant or non-public and provide accessors if needed.(¥†»¨ûÿÿÿÿ8ÿÚã£é.
+n
+java:S1104"QMake frame a static final constant or non-public and provide accessors if needed.(Ü˜üí8ÿÚã£é.
+y
+java:S1104"WMake carWashicon a static final constant or non-public and provide accessors if needed.(í¢Õûÿÿÿÿ8ÿÚã£é.
+{
+java:S1104"YMake btnSimulation a static final constant or non-public and provide accessors if needed.(úúÜøÿÿÿÿ8ÿÚã£é.
+f
+java:S3252B"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8ÿÚã£é.
+p
+java:S1104"SMake myLabel a static final constant or non-public and provide accessors if needed.(é“8ÿÚã£é.
+O
+java:S1128"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ8ÿÚã£é.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÿÚã£é.
+]	java:S125$"<This block of commented-out lines of code should be removed.(ØõúÔøÿÿÿÿ8ÿÚã£é.
+u
+java:S1104"XMake btnRemoveBox a static final constant or non-public and provide accessors if needed.(±»òÓ8ÿÚã£é.
+X	java:S125<"<This block of commented-out lines of code should be removed.(¥†Ôå8ÿÚã£é.
+w
+java:S1104"UMake btnIncome a static final constant or non-public and provide accessors if needed.(ä£Èùüÿÿÿÿ8ÿÚã£é.
+a
+java:S1128"?Remove this unused import 'com.mysql.cj.x.protobuf.MysqlxExpr'.(™€«²şÿÿÿÿ8ÿÚã£é.
+w
+java:S1104"UMake btnAddBox a static final constant or non-public and provide accessors if needed.(³Ä¯ıÿÿÿÿ8ÿÚã£é.
+u
+java:S1104"SMake btnBook a static final constant or non-public and provide accessors if needed.(Å¬ıÿÿÿÿ8ÿÚã£é.
+X	java:S1259"<This block of commented-out lines of code should be removed.(ôàÓÂ8ÿÚã£é.
+]	java:S125M"<This block of commented-out lines of code should be removed.(•¸¿Œıÿÿÿÿ8…¢À½ï.

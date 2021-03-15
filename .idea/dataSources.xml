@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="carwash@localhost" uuid="71cafcfb-9cff-4c34-a78d-1e2eb0148a0b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/carwash</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Spalatorie/Hibernate" uuid="51c81cac-31fd-4dd0-9e06-4d5a49acd241">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/Vlad/Desktop/IS-30237/src/main/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/carwash</jdbc-url>
+    </data-source>
+  </component>
+</project>

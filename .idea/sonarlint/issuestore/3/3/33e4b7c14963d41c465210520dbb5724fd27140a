@@ -1,0 +1,13 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‘†»øûÿÿÿÿ8ú”¥Õè.
+y
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(òü·¶8ƒî§Õè.
+}
+java:S1488+"`Immediately return this expression instead of assigning it to the temporary variable "toReturn".(Ì‹ÇŒ8ý‰“æç.
+J
+java:S1128"(Remove this unused import 'entity.User'.(Ï£Šûýÿÿÿÿ8‹§ ×ç.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¸Ð¦­8ÖÑ¥äç.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘†»øûÿÿÿÿ8ú”¥Õè.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸Ð¦­8ÖÑ¥äç.

@@ -1,0 +1,23 @@
+
+X	java:S125M"<This block of commented-out lines of code should be removed.(ƒò³¨8¶—¸è.
+T
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘8¶—¸è.
+f
+java:S11925"IDefine a constant instead of duplicating this literal "Interior" 3 times.(Á°š8Œå÷£é.
+f
+java:S11925"IDefine a constant instead of duplicating this literal "Complete" 3 times.(Á°š8Œå÷£é.
+Š
+java:S4144Ş"gUpdate this method so that its implementation is not identical to "getDurationForWashType" on line 209.(Ÿã·¸ûÿÿÿÿ8Œå÷£é.
+W
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8¶—¸è.
+^	java:S125„"<This block of commented-out lines of code should be removed.(¥İ£ ÿÿÿÿÿ8Œå÷£é.
+i
+java:S1192›"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 4 times.(ãñÇÍ8Œå÷£é.
+f
+java:S11925"IDefine a constant instead of duplicating this literal "Exterior" 3 times.(Á°š8Œå÷£é.
+Z
+java:S1128"8Remove this unused import 'org.jdatepicker.JDatePicker'.(ÖÖˆ€øÿÿÿÿ8¶—¸è.
+f
+java:S3252`"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8¶—¸è.
+X	java:S125A"<This block of commented-out lines of code should be removed.(Ó·‰Í8¶—¸è.
+]	java:S125p"<This block of commented-out lines of code should be removed.(ÊÒ¼ôùÿÿÿÿ8¨Ì°½ï.

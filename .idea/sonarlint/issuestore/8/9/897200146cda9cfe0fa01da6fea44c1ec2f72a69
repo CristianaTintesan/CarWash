@@ -1,0 +1,16 @@
+
+p
+java:S1104"SMake btnBook a static final constant or non-public and provide accessors if needed.(ıË³³8‹º²³ß.
+t
+java:S1104
+"WMake carWashIcon a static final constant or non-public and provide accessors if needed.(óŸº·8éù›´ß.
+p
+java:S1104"SMake myLabel a static final constant or non-public and provide accessors if needed.(é“8‹º²³ß.
+n
+java:S1104	"QMake frame a static final constant or non-public and provide accessors if needed.(Ü˜üí8‹º²³ß.
+z
+java:S1104"XMake btnPriceList a static final constant or non-public and provide accessors if needed.(”µ«ûÿÿÿÿ8¹şÅØè.
+f
+java:S3252*"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8¹şÅØè.
+N
+java:S1602=",Remove useless curly braces around statement(ÿÇşÔùÿÿÿÿ8¹şÅØè.

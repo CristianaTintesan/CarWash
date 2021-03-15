@@ -1,0 +1,14 @@
+
+w
+java:S1450
+"ZRemove the "btnExterior" field and declare it as a local variable in the relevant methods.(è«Úˆ8ÿçòÔß.
+w
+java:S1450	"ZRemove the "btnInterior" field and declare it as a local variable in the relevant methods.(ÎÑÔã8¨ïñÔß.
+Q
+java:S1068"/Remove this unused "chooseLabel" private field.(äÍˆòûÿÿÿÿ8—ú—Õß.
+w
+java:S1450"ZRemove the "btnComplete" field and declare it as a local variable in the relevant methods.(üÎ‹‰8×ØóÔß.
+|
+java:S1450"ZRemove the "chooseLabel" field and declare it as a local variable in the relevant methods.(äÍˆòûÿÿÿÿ8•ãÕß.
+f
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8š÷Ôß.

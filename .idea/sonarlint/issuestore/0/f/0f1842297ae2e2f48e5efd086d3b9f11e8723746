@@ -1,0 +1,18 @@
+
+W
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Мд№ќ8пЫЪШи.
+Z
+java:S1128"8Remove this unused import 'org.jdatepicker.JDatePicker'.(ЦЦ€Ђшяяяя8пЫЪШи.
+T
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Ъщ“‘8пЫЪШи.
+{
+java:S1450"YRemove the "datePicker" field and declare it as a local variable in the relevant methods.(ђ¬яµщяяяя8пЫЪШи.
+f
+java:S3252`"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ўЎќґ8пЫЪШи.
+P
+java:S1068".Remove this unused "datePicker" private field.(ђ¬яµщяяяя8пЫЪШи.
+]	java:S125="<This block of commented-out lines of code should be removed.(йЈЖ©ьяяяя8пЫЪШи.
+X	java:S125A"<This block of commented-out lines of code should be removed.(У·‰Н8пЫЪШи.
+X	java:S125M"<This block of commented-out lines of code should be removed.(ѓтіЁ8пЫЪШи.
+X	java:S125O"<This block of commented-out lines of code should be removed.(э†ҐЪ8пЫЪШи.
+X	java:S125i"<This block of commented-out lines of code should be removed.(шт››8пЫЪШи.

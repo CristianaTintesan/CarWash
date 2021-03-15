@@ -1,0 +1,28 @@
+
+H
+java:S1168,"+Return an empty collection instead of null.(¥¹ï8¨šî£é.
+H
+java:S1168a"+Return an empty collection instead of null.(¥¹ï8†ñËÚè.
+D
+java:S1128"'Remove this unused import 'entity.Box'.(ã©‚8¯¹©Üç.
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8’æíŞè.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ï¹ƒÊşÿÿÿÿ8†ñËÚè.
+Z
+java:S11974"8Move the array designator from the variable to the type.( ÅîÔúÿÿÿÿ8ù–±ßè.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(áÇ”’ûÿÿÿÿ8ßà–Úè.
+v
+java:S1488^"YImmediately return this expression instead of assigning it to the temporary variable "l".(şìî¢8Àã”±è.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…ß¼Åûÿÿÿÿ8‡Ñ¹Óè.
+M
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8çˆìŞè.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÅÏÒöşÿÿÿÿ8…ÿÃ°è.
+S
+java:S1751N"6Remove this "return" statement or make it conditional.(õ»Ô”8†ñËÚè.
+{
+java:S1488)"YImmediately return this expression instead of assigning it to the temporary variable "l".(¬¥®øûÿÿÿÿ8¨šî£é.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(É™ğ³8Ç£í£é.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(äœ„ô8Ù†ßàè.
+P
+java:S1128
+".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8’æíŞè.
